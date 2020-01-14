@@ -1,8 +1,7 @@
-.content {
-  grid-area: c;
-  background-color: burlywood;
-}
-
 .item {
   color: firebrick;
+}
+
+.div img {
+  width: 40px;
 }
