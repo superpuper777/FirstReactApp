@@ -1,0 +1,100 @@
+/* head */
+a{color:#00a8a9;}
+a:hover{color:#00a8a9;}
+.top_line, .copyright{background:#333333;}
+#fixed_header{background-color: #00a8a9;}
+.soc_btns>li.vk:hover>a{background:#00d3d4 url(../../img/soc_seti_top_menu.png)no-repeat;background-position: 0;}
+.soc_btns>li.fb:hover>a{background:#00d3d4 url(../../img/soc_seti_top_menu.png)no-repeat;background-position: -30px;}
+.soc_btns>li.odn:hover>a{background:#00d3d4 url(../../img/soc_seti_top_menu.png)no-repeat;background-position: -60px;}
+.soc_btns>li.gpl:hover>a{background:#00d3d4 url(../../img/soc_seti_top_menu.png)no-repeat;background-position: -90px;}
+.soc_btns>li.tw:hover>a{background:#00d3d4 url(../../img/soc_seti_top_menu.png)no-repeat;background-position: -120px;}
+.soc_btns>li.rss:hover>a{background:#00d3d4 url(../../img/soc_seti_top_menu.png)no-repeat;background-position: -150px;}
+  
+  .wpmfco_form_wrap .wpcf7-form .wpcf7-form-control.wpcf7-submit, .category_form .wpcf7-form .wpcf7-form-control.wpcf7-submit, .cta_block .cta_btn {background: #00a8a9;}
+.wpmfco_form_wrap .wpcf7-form .wpcf7-form-control.wpcf7-submit:hover, .category_form .wpcf7-form .wpcf7-form-control.wpcf7-submit:hover, .cta_block .cta_btn:hover {background: #00d3d4;}
+  
+/* mobyle menu */
+.mmcall{background: #00d3d4;}
+
+/* multitag a-я */
+.letter_tag_widget a, .child_cats_list_wrap .child_cats_list li a{background: #00a8a9;}
+.letter_tag_widget a:hover,.letter_tag_widget a:active, .letter_tag_widget .active, .child_cats_list_wrap .child_cats_list li a:hover{background: #00d3d4;}
+.child_cats_list_wrap .child_cats_list li a{color:#ffffff;}
+
+/* rubrici */
+.widget_sidebar_cats_ul li a:hover,.widget_sidebar_cats_ul  .current-cat a{background:#00d3d4;color:#ffffff;}
+.widget_sidebar_cats_ul  .current-cat .children li a{color:#00a8a9;}
+.widget_sidebar_cats_ul  .current-cat .children li a:hover{color:#ffffff;}
+.current-cat-parent .children .current-cat a{background:#00d3d4;}
+.current-cat-parent .children .current-cat .children li a:hover{background:#00d3d4;}
+
+header .nav .open > a, 
+header .nav .open > a:hover,
+header .nav .open > a:focus,
+header .dropdown-menu > li > a:hover,
+header .dropdown-menu > li > a:focus,
+header .dropdown-menu > li >span:hover,
+header .dropdown-menu > li >span:focus,
+header .dropdown-menu > li.current-menu-item >span,
+header ul>li.current-post-ancestor >a,
+header ul>li.current-post-ancestor:hover >a,
+header ul>li.current-category-ancestor >a,
+header ul>li.current-category-ancestor:hover >a,
+header ul>li.current-menu-ancestor >a,
+header ul>li.current-menu-ancestor:hover >a,
+header ul>li.current-menu-ancestor >span,
+header ul>li.current-menu-ancestor:hover >span,
+ul.mm-list>li.current-post-ancestor >a:not([class="mm-subopen"]),
+ul.mm-list>li.current-post-ancestor:hover >a:not([class="mm-subopen"]),
+ul.mm-list>li.current-category-ancestor >a:not([class="mm-subopen"]),
+ul.mm-list>li.current-category-ancestor:hover >a:not([class="mm-subopen"]),
+ul.mm-list>li.current-menu-ancestor >a:not([class="mm-subopen"]),
+ul.mm-list>li.current-menu-ancestor:hover >a:not([class="mm-subopen"]),
+ul.mm-list>li.current-menu-item>a:not([class="mm-subopen"]),
+ul.mm-list>li.current-menu-item:hover>a:not([class="mm-subopen"])
+{background-color:#00d3d4;color:#ffffff;}
+
+header .search{background:#00a8a9;}
+.search_form_button:hover{background-color:#00d3d4;}
+
+.widgettitle{border-color:#999999;}
+
+.content .search input{border-color:#00a8a9;}
+.content .search button{background-color:#00a8a9;}
+.content .search button:hover{background-color:#00d3d4;}
+header .nav > li > a:hover, header .nav > li > a:focus,header .nav > .active > span{background: #00d3d4;}
+
+/* content */
+.sm_post_box .post_title a,.lg_post_box .post_title a, .md_post_box .post_title a{color:#00a8a9;}
+.sm_post_box .post_title a:hover,.lg_post_box .post_title a:hover, .md_post_box .post_title a:hover{color:#00a8a9;}
+.widget_wysija .wysija-submit{background: #00a8a9;}
+.widget_wysija .wysija-submit:hover{background-color:#00d3d4;}
+
+/* subscribe */
+.subscribe_box{border-color:#00a8a9;}
+
+.tab_widget .nav-tabs{background-color:#00a8a9;}
+.tab_widget .nav > li > a:hover, .tab_widget .nav > li > a:focus,.tab_widget .nav-tabs > li.active > a, .tab_widget .nav-tabs > li.active > a:hover, .tab_widget .nav-tabs > li.active > a:focus{background:#00d3d4;}
+.comment-form input[type="submit"]{background:#00a8a9;}
+.comment-form input[type="submit"]:hover{background-color:#00d3d4;}
+.tag_list li a:hover, .tag_list .current-tag a{background:#00d3d4;color:#ffffff;}
+aside .subscribe_widget .widgettitle{background:#00a8a9;}
+
+/* pagination */
+.wp-pagenavi span.current{color:#00a8a9;}
+
+/* more link */
+.more-link:hover,.more-link:hover:before{background:#00d3d4;}
+.more-link:before{background:#00a8a9;}
+
+.show_other_show, .show_other_close{background:#00a8a9;}
+.show_other_show:hover, .show_other_close:hover{background:#00d3d4;}
+
+/* accordion in content and tabs */
+.main_text .panel-title > a,.main_text div.panel-title a:before,.main_text .nav > li > a, .main_text .nav > li >span{color:#00a8a9;}
+
+/* 404 */
+.error_number{color:#00a8a9;}
+.page404 .search input{border-color:#00a8a9;}
+.page404 .search button{background-color:#00a8a9;}
+.page404 .search button:hover{background-color:#00d3d4;}
